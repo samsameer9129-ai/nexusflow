@@ -1,5 +1,3 @@
 print("Hello, World!")
 print("good nyth")
-helloooooooooooooooooo
-yes it working
-
+print("yes it is working")
